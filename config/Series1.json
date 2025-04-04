@@ -1,0 +1,655 @@
+[
+  {
+    "titulo": "Cobra Kai (2018)",
+    "poster": "https://image.tmdb.org/t/p/w1280/eTMMU2rKpZRbo9ERytyhwatwAjz.jpg",
+    "sinopsis": "Secuela de Karate Kid, 30 años después de los acontecimientos del film original y con el mismo reparto repitiendo los papeles principales..",
+    "genero": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "T1 - E1:\n                            Episode 1",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X01/"
+          },
+          {
+            "nombre": "T1 - E2:\n                            Episode 2",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X02/"
+          },
+          {
+            "nombre": "T1 - E3:\n                            Episode 3",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X03/"
+          },
+          {
+            "nombre": "T1 - E4:\n                            Episode 4",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X04/"
+          },
+          {
+            "nombre": "T1 - E5:\n                            Episode 5",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X05/"
+          },
+          {
+            "nombre": "T1 - E6:\n                            Episode 6",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X06/"
+          },
+          {
+            "nombre": "T1 - E7:\n                            Episode 7",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X07/"
+          },
+          {
+            "nombre": "T1 - E8:\n                            Episode 8",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X08/"
+          },
+          {
+            "nombre": "T1 - E9:\n                            Episode 9",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X09/"
+          },
+          {
+            "nombre": "T1 - E10:\n                            Episode 10",
+            "urlServidor": "https://xupalace.org/video/tt7221388-1X10/"
+          }
+        ]
+      },
+      {
+        "nombre": "Temporada 2",
+        "episodios": [
+          {
+            "nombre": "T2 - E1:\n                            Episode 1",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X01/"
+          },
+          {
+            "nombre": "T2 - E2:\n                            Episode 2",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X02/"
+          },
+          {
+            "nombre": "T2 - E3:\n                            Episode 3",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X03/"
+          },
+          {
+            "nombre": "T2 - E4:\n                            Episode 4",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X04/"
+          },
+          {
+            "nombre": "T2 - E5:\n                            Episode 5",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X05/"
+          },
+          {
+            "nombre": "T2 - E6:\n                            Episode 6",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X06/"
+          },
+          {
+            "nombre": "T2 - E7:\n                            Episode 7",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X07/"
+          },
+          {
+            "nombre": "T2 - E8:\n                            Episode 8",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X08/"
+          },
+          {
+            "nombre": "T2 - E9:\n                            Episode 9",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X09/"
+          },
+          {
+            "nombre": "T2 - E10:\n                            Episode 10",
+            "urlServidor": "https://xupalace.org/video/tt7221388-2X10/"
+          }
+        ]
+      },
+      {
+        "nombre": "Temporada 3",
+        "episodios": [
+          {
+            "nombre": "T3 - E1:\n                            Episode 1",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X01/"
+          },
+          {
+            "nombre": "T3 - E2:\n                            Episode 2",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X02/"
+          },
+          {
+            "nombre": "T3 - E3:\n                            Episode 3",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X03/"
+          },
+          {
+            "nombre": "T3 - E4:\n                            Episode 4",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X04/"
+          },
+          {
+            "nombre": "T3 - E5:\n                            Episode 5",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X05/"
+          },
+          {
+            "nombre": "T3 - E6:\n                            Episode 6",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X06/"
+          },
+          {
+            "nombre": "T3 - E7:\n                            Episode 7",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X07/"
+          },
+          {
+            "nombre": "T3 - E8:\n                            Episode 8",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X08/"
+          },
+          {
+            "nombre": "T3 - E9:\n                            Episode 9",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X09/"
+          },
+          {
+            "nombre": "T3 - E10:\n                            Episode 10",
+            "urlServidor": "https://xupalace.org/video/tt7221388-3X10/"
+          }
+        ]
+      },
+      {
+        "nombre": "Temporada 4",
+        "episodios": [
+          {
+            "nombre": "T4 - E1:\n                            Episode 1",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X01/"
+          },
+          {
+            "nombre": "T4 - E2:\n                            Episode 2",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X02/"
+          },
+          {
+            "nombre": "T4 - E3:\n                            Episode 3",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X03/"
+          },
+          {
+            "nombre": "T4 - E4:\n                            Episode 4",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X04/"
+          },
+          {
+            "nombre": "T4 - E5:\n                            Episode 5",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X05/"
+          },
+          {
+            "nombre": "T4 - E6:\n                            Episode 6",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X06/"
+          },
+          {
+            "nombre": "T4 - E7:\n                            Episode 7",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X07/"
+          },
+          {
+            "nombre": "T4 - E8:\n                            Episode 8",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X08/"
+          },
+          {
+            "nombre": "T4 - E9:\n                            Episode 9",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X09/"
+          },
+          {
+            "nombre": "T4 - E10:\n                            Episode 10",
+            "urlServidor": "https://xupalace.org/video/tt7221388-4X10/"
+          }
+        ]
+      },
+      {
+        "nombre": "Temporada 5",
+        "episodios": [
+          {
+            "nombre": "T5 - E1:\n                            Episodio 1",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x01/"
+          },
+          {
+            "nombre": "T5 - E2:\n                            Episodio 2",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x02/"
+          },
+          {
+            "nombre": "T5 - E3:\n                            Episodio 3",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x03/"
+          },
+          {
+            "nombre": "T5 - E4:\n                            Episodio 4",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x04/"
+          },
+          {
+            "nombre": "T5 - E5:\n                            Episodio 5",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x05/"
+          },
+          {
+            "nombre": "T5 - E6:\n                            Episodio 6",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x06/"
+          },
+          {
+            "nombre": "T5 - E7:\n                            Episodio 7",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x07/"
+          },
+          {
+            "nombre": "T5 - E8:\n                            Episodio 8",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x08/"
+          },
+          {
+            "nombre": "T5 - E9:\n                            Episodio 9",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x09/"
+          },
+          {
+            "nombre": "T5 - E10:\n                            Episodio 10",
+            "urlServidor": "https://xupalace.org/video/tt7221388-5x10/"
+          }
+        ]
+      },
+      {
+        "nombre": "Temporada 6",
+        "episodios": [
+          {
+            "nombre": "T6 - E1:\n                            Paz en el Valley",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x01/"
+          },
+          {
+            "nombre": "T6 - E2:\n                            El precio del premio",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x02/"
+          },
+          {
+            "nombre": "T6 - E3:\n                            Fiesta de pijamas",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x03/"
+          },
+          {
+            "nombre": "T6 - E4:\n                            Antihéroes",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x04/"
+          },
+          {
+            "nombre": "T6 - E5:\n                            La mejor de las mejores",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x05/"
+          },
+          {
+            "nombre": "T6 - E6:\n                            Benvinguts a Barcelona",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x06/"
+          },
+          {
+            "nombre": "T6 - E7:\n                            Perro de pelea",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x07/"
+          },
+          {
+            "nombre": "T6 - E8:\n                            Turbulencias",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x08/"
+          },
+          {
+            "nombre": "T6 - E9:\n                            Sangre por sangre",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x09/"
+          },
+          {
+            "nombre": "T6 - E10:\n                            Eunjangdo",
+            "urlServidor": "https://embed69.org/f/tt7221388-6x10/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Par de ideotas (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/1y4KeJVMHOClbMFRfiPAd4x6cfj.jpg",
+    "sinopsis": "Vadhir y José Eduardo Derbez se asocian para abrir un bar y ser anfitriones de las noches más épicas. Juntos enfrentan los desafíos y retos de emprender un negocio..",
+    "genero": [
+      "Comedia",
+      "Drama",
+      "Reality"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: Cero Experiencia",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Bar de ideotas",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Terciopelo y números rojos",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: Disco-ntrolados",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x04/"
+          },
+          {
+            "nombre": "Episodio 5 - T1: Elegantes contrincantes",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x05/"
+          },
+          {
+            "nombre": "Episodio 6 - T1: Dragas de noche",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x06/"
+          },
+          {
+            "nombre": "Episodio 7 - T1: Dos hermanos, un camino",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x07/"
+          },
+          {
+            "nombre": "Episodio 8 - T1: Despues de todo",
+            "urlServidor": "https://embed69.org/f/tt36041464-1x08/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Chicas desaparecidas: El asesino en serie de Long Island (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/aenXNoToZ1WMmAuHMD3ASa7iajz.jpg",
+    "sinopsis": "Esta tensa serie de crímenes reales narra la búsqueda del asesino en serie de Long Island a través de la perspectiva de sus víctimas, los allegados y la policía..",
+    "genero": [
+      "Crimen",
+      "Documental"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: Primera parte",
+            "urlServidor": "https://embed69.org/f/tt35629774-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Segunda parte",
+            "urlServidor": "https://embed69.org/f/tt35629774-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Tercera parte",
+            "urlServidor": "https://embed69.org/f/tt35629774-1x03/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Manual para señoritas (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/sEZfgxon0WUDRzREYM3zXGGUxfC.jpg",
+    "sinopsis": "Elena Bianda, la carabina encargada de encontrar marido a tres adineradas hermanas, se ve envuelta en una historia de amor, escándalos, intriga y humor a finales del siglo XIX..",
+    "genero": [
+      "Comedia",
+      "Drama"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: Lección 1: Prohibido enamorarse",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Lección 2: No contar mentiras",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Lección 3: El pasado, pasado está",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: Lección 4: Alejar la tentación",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x04/"
+          },
+          {
+            "nombre": "Episodio 5 - T1: Lección 5: No traicionar a tu señorita",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x05/"
+          },
+          {
+            "nombre": "Episodio 6 - T1: Lección 6: Tus deseos no son prioridad",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x06/"
+          },
+          {
+            "nombre": "Episodio 7 - T1: Lección 7: Mantener las buenas formas",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x07/"
+          },
+          {
+            "nombre": "Episodio 8 - T1: Lección 8: Hacer feliz a tu señorita",
+            "urlServidor": "https://embed69.org/f/tt31092106-1x08/"
+          },
+          {
+            "nombre": "Episodio 9 - T1: Episodio 9",
+            "urlServidor": "No encontrado"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Ciudad tóxica (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/fCHmcC6MC7hXy7OO2KRjmJxskAg.jpg",
+    "sinopsis": "Cuando en Corby nacen decenas de niños con discapacidades, sus madres emprenden una lucha para que los responsables rindan cuentas..",
+    "genero": "Drama",
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: Episodio 1",
+            "urlServidor": "https://embed69.org/f/tt28631067-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Episodio 2",
+            "urlServidor": "https://embed69.org/f/tt28631067-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Episodio 3",
+            "urlServidor": "https://embed69.org/f/tt28631067-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: Episodio 4",
+            "urlServidor": "https://embed69.org/f/tt28631067-1x04/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "La cancha de oro (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/dBAgKN0cyoExZoM8ZofeTFLC1t5.jpg",
+    "sinopsis": "Imágenes inéditas de los principales aspirantes a conseguir una medalla en baloncesto masculino mientras luchan por el oro y la gloria en los Juegos Olímpicos de 2024 en París..",
+    "genero": [
+      "Documental",
+      "Reality"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: Episodio 1",
+            "urlServidor": "https://embed69.org/f/tt32376394-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Episodio 2",
+            "urlServidor": "https://embed69.org/f/tt32376394-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Episodio 3",
+            "urlServidor": "https://embed69.org/f/tt32376394-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: Episodio 4",
+            "urlServidor": "https://embed69.org/f/tt32376394-1x04/"
+          },
+          {
+            "nombre": "Episodio 5 - T1: Episodio 5",
+            "urlServidor": "https://embed69.org/f/tt32376394-1x05/"
+          },
+          {
+            "nombre": "Episodio 6 - T1: Episodio 6",
+            "urlServidor": "https://embed69.org/f/tt32376394-1x06/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Luces, cámara, ¡amor! (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/fSxjb4yucS6OwFnxYaKYYa4A0qk.jpg",
+    "sinopsis": "Un cinéfilo se enamora de una directora en ciernes, pero su relación se apaga demasiado pronto. ¿Volverá a surgir el amor ahora que sus caminos se cruzan de nuevo?.",
+    "genero": [
+      "Comedia",
+      "Drama"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: Se volverá pintoresco cuando llegue el amanecer",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: ¿Por qué tan serio?",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Mantén a tus amigos cerca, pero a tus enemigos aún más cerca",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: No es culpa tuya",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x04/"
+          },
+          {
+            "nombre": "Episodio 5 - T1: Nadie puede prepararte para el amor y el miedo",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x05/"
+          },
+          {
+            "nombre": "Episodio 6 - T1: ¡El final feliz es mío!",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x06/"
+          },
+          {
+            "nombre": "Episodio 7 - T1: Gracias por la aventura, ¡ahora empieza una nueva!",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x07/"
+          },
+          {
+            "nombre": "Episodio 8 - T1: Lo único que necesitas es amor",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x08/"
+          },
+          {
+            "nombre": "Episodio 9 - T1: Éramos como extraños que se conocían muy bien",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x09/"
+          },
+          {
+            "nombre": "Episodio 10 - T1: La vida es una cosa hermosa y magnífica, incluso para una medusa",
+            "urlServidor": "https://embed69.org/f/tt35450649-1x10/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "La caída de Diddy (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/6OOUf9ItmijJgW5pVdy1YbWab2g.jpg",
+    "sinopsis": "Durante décadas, Sean Combs, conocido artísticamente como Diddy o Puff Daddy, ha influido en la música y la cultura popular, desde sus inicios como creativo de talento hasta su detención en 2024. La docuserie explora las acusaciones de agresión sexual, comportamiento abusivo y violencia que recaen sobre él y que han conmocionado al mundo..",
+    "genero": [
+      "Crimen",
+      "Documental"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: La Creación de un magnate",
+            "urlServidor": "https://embed69.org/f/tt35400412-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Imperio Bajo Fuego",
+            "urlServidor": "https://embed69.org/f/tt35400412-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Intocable",
+            "urlServidor": "https://embed69.org/f/tt35400412-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: La caída",
+            "urlServidor": "https://embed69.org/f/tt35400412-1x04/"
+          },
+          {
+            "nombre": "Episodio 5 - T1: El Asistente",
+            "urlServidor": "https://embed69.org/f/tt35400412-1x05/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Newtopia (2025)",
+    "poster": "https://image.tmdb.org/t/p/w1280/lzFhFv100URxjZyBBLcMXu18WLJ.jpg",
+    "sinopsis": "Un soldado se enfrenta a un brote de zombis durante el servicio militar. Su novia, una ingeniera, navega por Seúl, plagada de zombis. Ambos luchan por la ciudad infestada de muertos vivientes, esforzándose por reunirse en medio del caos..",
+    "genero": [
+      "Comedia",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: Episodio 1",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Episodio 2",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Episodio 3",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: Episodio 4",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x04/"
+          },
+          {
+            "nombre": "Episodio 5 - T1: Episodio 5",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x05/"
+          },
+          {
+            "nombre": "Episodio 6 - T1: Episodio 6",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x06/"
+          },
+          {
+            "nombre": "Episodio 7 - T1: Episodio 7",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x07/"
+          },
+          {
+            "nombre": "Episodio 8 - T1: Episodio 8",
+            "urlServidor": "https://embed69.org/f/tt32199328-1x08/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "El mañana y yo (2024)",
+    "poster": "https://image.tmdb.org/t/p/w1280/6AEp3evNSw8yecyjZ9ORYQb2T8O.jpg",
+    "sinopsis": "Esta serie sitúa a Tailandia en un futuro distópico, donde la tecnología choca con costumbres milenarias y deja al descubierto fisuras en el tejido cultural..",
+    "genero": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "temporadas": [
+      {
+        "nombre": "Temporada 1",
+        "episodios": [
+          {
+            "nombre": "Episodio 1 - T1: La oveja negra",
+            "urlServidor": "https://embed69.org/f/tt31158590-1x01/"
+          },
+          {
+            "nombre": "Episodio 2 - T1: Paraíso distópico",
+            "urlServidor": "https://embed69.org/f/tt31158590-1x02/"
+          },
+          {
+            "nombre": "Episodio 3 - T1: Datos de Buda",
+            "urlServidor": "https://embed69.org/f/tt31158590-1x03/"
+          },
+          {
+            "nombre": "Episodio 4 - T1: La chica pulpo",
+            "urlServidor": "https://embed69.org/f/tt31158590-1x04/"
+          }
+        ]
+      }
+    ]
+  }
+]
