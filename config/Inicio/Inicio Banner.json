@@ -1,20 +1,20 @@
 [
   {
-    "titulo": "Blancanieves (2025)",
-    "banner": "https://lumiere-a.akamaihd.net/v1/images/image_d6c35a63.jpeg",
-    "poster": "https://image.tmdb.org/t/p/w1280/uxy6FIFl3hccD2eqGe75WkPLv5M.jpg",
-    "sinopsis": "Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana..",
-    "genero": "Fantasía, Familia",
-    "urlServidor": "https://embed69.org/f/tt6208148/",
-    "tipo": "pelicula"
-  },
-  {
     "titulo": "Una película de Minecraft (2025)",
     "banner": "https://static.planetminecraft.com/files/image/minecraft/mod/2024/535/18363356-homepage-hero-trailer-x_xl.jpg",
     "poster": "https://image.tmdb.org/t/p/w1280/qNEmbTNjf5hVzecPq96pxGfBhbX.jpg",
     "sinopsis": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve..",
     "genero": "Aventura, Comedia, Fantasía, Familia",
     "urlServidor": "https://embed69.org/f/tt3566834/",
+    "tipo": "pelicula"
+  },
+  {
+    "titulo": "Blancanieves (2025)",
+    "banner": "https://lumiere-a.akamaihd.net/v1/images/image_d6c35a63.jpeg",
+    "poster": "https://image.tmdb.org/t/p/w1280/uxy6FIFl3hccD2eqGe75WkPLv5M.jpg",
+    "sinopsis": "Una adaptación en vivo del clásico cuento de hadas sobre una hermosa joven princesa que, mientras es acosada por una reina celosa, busca refugio en la casa de siete enanos en la campiña alemana..",
+    "genero": "Fantasía, Familia",
+    "urlServidor": "https://embed69.org/f/tt6208148/",
     "tipo": "pelicula"
   },
   {
